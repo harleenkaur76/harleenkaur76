@@ -21,7 +21,7 @@ In my free time, I try to learn new skills.
 <a href = https://www.linkedin.com/in/harleen-kaur-25b006168// target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/harleen_bindra7 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <!-- <a href =  target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>  -->
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=manwindersingh1712@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harleenbindra07@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
 <a href = https://stackoverflow.com/users/15268727/harleen-kaur target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
 
  &emsp;
