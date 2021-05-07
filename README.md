@@ -4,26 +4,25 @@
 <h1 align='center'>Hey 👋, This is Harleen Kaur</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a web enthusiast and innovator. Always love to learn about new things in the tech world and industry, the reason why I am part of many tech communities in Delhi. Apart from this, I love to read and learn
+<p align='center'>I am a machine learning enthusiast and innovator. Always love to learn about new things in the tech world and industry, the reason why I am part of many tech communities in Delhi. Apart from this, I love to read and learn
 about psychology and related stuff, this helps me understand human and its nature, this helps me in programs related to marketing and promotions. I am trilingual, speaking English, Hindi, Punjabi.
-In my free time, either I am learning new skills or doing exercise, or listen to people around me about their problems because spreading happiness is my mission apart from other things.
+In my free time, I try to learn new skills.
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
 ### 😉 About
-- 🍎 I’m currently working as an Intern at in [IOSD](https://iosd.tech/ ).
-- 🔭 I’m currently contributing in [DSC-GTBIT](https://dsc-gtbit.netlify.app// "HackinCodes").
-- 🌱 I’m currently learning websockets and practicing ds and algo. 
-- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+
+- 🔭 I'm learning machine learning.
+- 🌱 I’m practicing data strusture and algorithm. 
 - 🤔 I’m looking for help with Data Structures and Algorithm.
-- 💬 Ask me about anything related to WebDevelopment.
+
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = https://github.com/manwindersingh1712 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/manwinder-singh-615057185/ target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/Manwind72534624 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+ <a href = https://github.com/harleenkaur76 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/harleen-kaur-25b006168// target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/harleen_bindra7 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <!-- <a href =  target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>  -->
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=manwindersingh1712@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href = https://stackoverflow.com/users/13542349/manwinder-singh target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
+<a href = https://stackoverflow.com/users/15268727/harleen-kaur target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
 
  &emsp;
  
