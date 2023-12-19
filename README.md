@@ -4,14 +4,12 @@
 <h1 align='center'>Hey 👋, This is Harleen Kaur</h1>
 <p align = 'center'> 
 <h2 align='center'>About Me🤓</h2>
-<p align='center'>I am a machine learning enthusiast and innovator. Always love to learn about new things in the tech world and industry, the reason why I am part of many tech communities in Delhi. Apart from this, I love to read and learn
-about psychology and related stuff, this helps me understand human and its nature, this helps me in programs related to marketing and promotions. I am trilingual, speaking English, Hindi, Punjabi.
-In my free time, I try to learn new skills.
+<p align='center'>I'm a passionate Frontend Developer at Optiphoenix, obsessed with crafting beautiful and impactful user experiences. Armed with a B.Tech in IT and a mastery of HTML, CSS, JavaScript, and JQuery, I excel at building responsive and intuitive websites. My true superpower lies in A/B testing. I thrive on collaborating with clients to design and implement strategic experiments that skyrocket conversion rates (increased 20% at Optiphoenix!). I'm a perpetual learner, always seeking new challenges and staying ahead of the curve in the ever-evolving world of web development. When I'm not knee-deep in code, you'll find me conquering mountains or devouring new cuisines. Open to exciting opportunities – let's connect!
 <!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
 
 ### 😉 About
 
-- 🔭 I'm learning machine learning.
+- 🔭 I'm learning MERN 
 - 🌱 I’m practicing data strusture and algorithm. 
 - 🤔 I’m looking for help with Data Structures and Algorithm.
 
