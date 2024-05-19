@@ -1,44 +1,24 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
-<h1 align='center'>Hey 👋, This is Harleen Kaur</h1>
-<p align = 'center'> 
-<h2 align='center'>About Me🤓</h2>
-<p align='center'>I'm a passionate Frontend Developer at Optiphoenix, obsessed with crafting beautiful and impactful user experiences. Armed with a B.Tech in IT and a mastery of HTML, CSS, JavaScript, and JQuery, I excel at building responsive and intuitive websites. My true superpower lies in A/B testing. I thrive on collaborating with clients to design and implement strategic experiments that skyrocket conversion rates (increased 20% at Optiphoenix!). I'm a perpetual learner, always seeking new challenges and staying ahead of the curve in the ever-evolving world of web development. When I'm not knee-deep in code, you'll find me conquering mountains or devouring new cuisines. Open to exciting opportunities – let's connect!
-<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p> -->
-
-### 😉 About
-
-- 🔭 I'm learning MERN 
-- 🌱 I’m practicing data strusture and algorithm. 
-- 🤔 I’m looking for help with Data Structures and Algorithm.
-
-</p><h2 align='center'>Connect with me  📫 </h2>
-<p align = 'center'> 
- <a href = https://github.com/harleenkaur76 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/harleen-kaur-25b006168// target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/harleen_bindra7 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<!-- <a href =  target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>  -->
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=harleenbindra07@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href = https://stackoverflow.com/users/15268727/harleen-kaur target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
-
- &emsp;
- 
- <p align="center">
- <img src="https://img.icons8.com/color/452/nodejs.png" alt="node" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/> 
- <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
-<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
- <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css" width="40" height="40"/>
- <img src="https://picosat.systems/wp-content/uploads/2016/03/js-logo.png" alt="javascript" width="40" height="40"/>
-</p>
-
- &emsp;
-
-<img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+# 💫 About Me:
+I'm a passionate Frontend Developer with over 1.5 years of experience in creating seamless digital experiences. Currently, I'm exploring frontend technologies and have a keen interest in the MERN stack. I'm actively learning React.js and practicing Data Structures and Algorithms (DSA) to further enhance my skills.<br><br>I'm always looking to collaborate on exciting projects and help others in the developer community. Let's connect and build something amazing together!
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harleenkaur07/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/harleenbindra07) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harleenkaur76&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harleenkaur76&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harleenkaur76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=harleenkaur76&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=harleenkaur76&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
